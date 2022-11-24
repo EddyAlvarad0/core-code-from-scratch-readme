@@ -53,7 +53,9 @@ ________________________________________________________________________________
 Hot N Cold 🤒 🧊 🔥
 
 Valor1= Num1
+
 Valor2=Num2
+
 1.Incio
 2.Solicitar temperatura en Celsius y llamarla Num1
 3.Preguntar si la temperatura esta en gradoss celcius.
