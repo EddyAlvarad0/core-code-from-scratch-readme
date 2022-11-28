@@ -77,4 +77,20 @@ Some geometry 📐
 5.Si la respuesta es piramide, vamos a solicitar 2 valores. El primero seria la medida de la Base y la llamaremos Base y la segunda seria la medida de la altura y la llamaremos altura. Ya obtenido ambos valores.
  - vamos a utilizar la siguiente formula: (1/3) (Base x Altura) = RESULTADO DE VOLUMEN DE UNA PIRAMIDE
 -Fin
+____________________________________________________________________________________________
+Numbers 📈
 
+![Diagrama en blanco](https://user-images.githubusercontent.com/116528251/204395555-260fe635-56f1-45b1-86b5-476bd11f338e.jpeg)]
+____________________________________________________________________________________________
+How old are you 👴
+
+1. Solicitar el año en el que se encuentra actualmente y llamarla Num1
+2. Preguntar el año en el cual la persona nacio y llamarla Num2
+3. Ya teniendo los dos valores vamos a usar la siguiente formula: El año en que se encuentra (Num1) y se le restará el año en el cual la persona nacio (Num2)
+4. Resultado es igual a la edad actual
+5. Fin
+______________________________________________________________________________________________
+Find the treasure 👑
+
+Los cofres que tienen el tesoros son A y C
+______________________________________________________________________________________________
