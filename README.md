@@ -94,3 +94,14 @@ Find the treasure 👑
 
 Los cofres que tienen el tesoros son A y C
 ______________________________________________________________________________________________
+Logic problem
+La respuesta seria Bob.
+______________________________________________________________________________________________
+Which comes first, cereal or milk?
+1. Abrimos mueble donde sacaremos un plato, el cereal preferido y la leche.
+2. tomaremos el plato en el cual agregaremos el cereal sin sobre pasar el limite del plato.
+3. Agregaremos la leche sin sobrepasar la medida del plato.
+4. Tomar una cuchara del mueble.
+5. Disfrutar
+6. FIN.
+![Árbol crítico de la calidad](https://user-images.githubusercontent.com/116528251/204682484-682ad88f-08b0-452b-96e6-f9fb2613bada.jpeg)
