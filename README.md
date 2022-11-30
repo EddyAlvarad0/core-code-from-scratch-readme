@@ -104,4 +104,5 @@ Which comes first, cereal or milk?
 4. Tomar una cuchara del mueble.
 5. Disfrutar
 6. FIN.
-![Árbol crítico de la calidad](https://user-images.githubusercontent.com/116528251/204682484-682ad88f-08b0-452b-96e6-f9fb2613bada.jpeg)
+
+![Árbol crítico de la calidad](https://user-images.githubusercontent.com/116528251/204682643-72b72aa9-33e2-451b-9b7c-0a52bbab0062.png)
