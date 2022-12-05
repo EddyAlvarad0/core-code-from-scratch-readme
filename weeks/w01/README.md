@@ -25,5 +25,15 @@ Algorithm game
 
 ![gamegame](https://user-images.githubusercontent.com/116528251/205538155-0e97f043-aaa4-47aa-be29-f272188ae601.jpg)
 ______________________________________________________________________________________________
+## Miercoles
+Mod
+
+![modd](https://user-images.githubusercontent.com/116528251/205756834-f85f9de4-2ed1-4721-aed6-b7f7f0852a3e.jpg)
+
 ______________________________________________________________________________________________
+Register form
+
+![full information](https://user-images.githubusercontent.com/116528251/205762304-0eeca7c6-7ca8-4648-b289-9b5e2d4cde07.jpg)
+
+
 ______________________________________________________________________________________________
