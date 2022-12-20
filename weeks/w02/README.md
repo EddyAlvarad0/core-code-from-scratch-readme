@@ -32,4 +32,5 @@ Ascending and Descending Numbers
 _______________________________________________________________________________________________
 Greeting
 
-![greetingcode](https://user-images.githubusercontent.com/116528251/208782104-9c18f45c-77d7-4d74-b6aa-ac5790a52167.jpg)
+![greetingcode](https://user-images.githubusercontent.com/116528251/208782848-c31c9b73-e5bc-46af-880a-2e2fd9dab23f.jpg)
+
